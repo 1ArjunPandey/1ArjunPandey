@@ -1,5 +1,5 @@
 - 👋 It's me Arjun Pandey
-- 👀 I’m interested in Machine learning and developement
+- 👀 I’m interested in Machine learning and development
 - 📫 You Can reach me on Linkedin
 
 <!---
