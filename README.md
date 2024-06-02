@@ -1,12 +1,10 @@
-![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![Banner](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 
 
 <h1 align="center">Namaste WORLD 🙏🏻, I'm Arjun Pandey</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1arjunpandey&label=Profile%20views&color=0e75b6&style=flat" alt="1arjunpandey" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1arjunpandey" alt="1arjunpandey" /></a> </p>
 <img alt="image" width="400" align="right" src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*bhFifratH9DjKqMBTeQG5A.gif"> 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -15,7 +13,7 @@
 - 📫 How to reach me **my.arjunpandey@gmail.com**
 
 - ⚡ Fun fact **LOVE CODING**
-
+<br><br><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/01arjun-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="01arjun-pandey" height="30" width="40" /></a>
