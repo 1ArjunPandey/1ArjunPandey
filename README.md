@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Namaste WORLD 🙏🏻, I'm Arjun Pandey</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">AI and Algorithm Learner from India</h3>
 <br>
 
 <img alt="image" width="400" align="right" src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*bhFifratH9DjKqMBTeQG5A.gif"> 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Node, Express and React.**
+- 💬 Ask me about **NLP, ML, LLM, AI, Algorithm**
 
 - 📫 How to reach me **my.arjunpandey@gmail.com**
 
